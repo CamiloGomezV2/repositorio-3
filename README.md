@@ -4,3 +4,4 @@
 | :-----:     |    :----:   |   :-----:     |
 | Factory     | Decorator   | Command       |
 | Singleton   | Proxy       | Iterator      |
+| Builder     |             |               |
